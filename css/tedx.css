@@ -20,6 +20,10 @@ ul.right{
   margin-top: 10px !important;
 }
 
+ul.left {
+    margin-top: 22px !important;
+}
+
 
 .full-width{
   max-width: 100% !important;
