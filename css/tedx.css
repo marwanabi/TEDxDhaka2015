@@ -401,9 +401,10 @@ body {
   background: white !important;
 }
 
-.scrolldown
+#scrolldown
 {
   margin-top: -4%;
+  text-align: center;
 }
 .arrow {
   position: fixed;
