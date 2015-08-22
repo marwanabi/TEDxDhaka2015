@@ -1,16 +1,13 @@
-<<<<<<< HEAD
+
 html{
   overflow-x: hidden;
 }
-
-=======
->>>>>>> 1744c4a421503c8792a9e598ed924558e420fe9f
 
 h1,p{
   text-align: justify;
 }
 
-<<<<<<< HEAD
+
 
 #left-logo{
       margin-top: 1% !important;
@@ -25,12 +22,9 @@ h1,p{
 
 .top-bar{
     margin-top: 2% !important;
-=======
-.nav {
-float: right;
-padding: 0!important;
->>>>>>> 1744c4a421503c8792a9e598ed924558e420fe9f
-}
+  }
+
+
 
 .full-width{
   max-width: 100% !important;
@@ -39,10 +33,8 @@ padding: 0!important;
 
 #logo{
 height: 100%;
-<<<<<<< HEAD
-=======
 margin-left: 5%;
->>>>>>> 1744c4a421503c8792a9e598ed924558e420fe9f
+
 }
 
 .top-bar{
@@ -67,10 +59,7 @@ margin-left: 5%;
 }
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 1744c4a421503c8792a9e598ed924558e420fe9f
 #redC,#redC1,#redC2{
   display: none;
   position: absolute;
@@ -125,13 +114,8 @@ margin-left: 5%;
 #container{
   display: none;
     position: absolute;
-<<<<<<< HEAD
     left:  calc(100% - 63%) !important;
     top:  calc(100% - 50%)!important;
-=======
-    left: 55vh !important;
-    top: 43vh !important;
->>>>>>> 1744c4a421503c8792a9e598ed924558e420fe9f
   color: #787B7B;
   margin: 0px;
   z-index: -1;
