@@ -48,6 +48,13 @@ margin-left: 5%;
    font-size: 1rem !important;
    letter-spacing: 1px;
 }
+
+
+li a:hover{
+  color: rgb(238, 54, 36) !important;
+}
+
+
 #round_row{
   text-align: center;
   z-index:9;  
