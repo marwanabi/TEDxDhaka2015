@@ -398,7 +398,7 @@ margin-left: 5%;
 }
 
 body {
-  background: white;
+  background: white !important;
 }
 
 .arrow {
