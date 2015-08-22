@@ -76,8 +76,12 @@ setTimeout(function(){
 
 
 
-
-
+    (function($){
+        $(window).load(function(){
+            $("a[rel='m_PageScroll2id']").mPageScroll2id();
+           
+        });
+    })(jQuery);
 
 
 
