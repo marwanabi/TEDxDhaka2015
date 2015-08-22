@@ -1,5 +1,5 @@
 html{
-  overflow: hidden;;
+  overflow-x: hidden;
 }
 
 
@@ -98,8 +98,8 @@ height: 100%;
 #container{
   display: none;
     position: absolute;
-    left: 55vh !important;
-    top: 43vh !important;
+    left:  calc(100% - 63%) !important;
+    top:  calc(100% - 50%)!important;
   color: #787B7B;
   margin: 0px;
   z-index: -1;
