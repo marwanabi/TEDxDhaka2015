@@ -397,6 +397,9 @@ margin-left: 5%;
   }
 }
 
+body {
+  background: white;
+}
 
 .arrow {
   position: fixed;
