@@ -93,8 +93,8 @@ var concentricModule = (function(){
 		num : 10, // Number of circles to draw
 		width :  10, // Width of first, innermost, circle.
 		height :  10, // Height of first, innermost, circle.
-		widthAccumalator : 15, // Additional pixels to add on to each subsequent circle
-		heightAccumalator : 15, // "    "
+		widthAccumalator : 12, // Additional pixels to add on to each subsequent circle
+		heightAccumalator : 12, // "    "
 		delay : 0, // Initial delay before start of the first animation.
 		delayIncrement :  0.08, // Increment in animation delay.
 		animDuration : ' 0.9s', // Animation duration

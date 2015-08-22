@@ -115,7 +115,7 @@ margin-left: 5%;
 #container{
   display: none;
     position: absolute;
-    left:  calc(100% - 63%) !important;
+    left:  calc(100% - 60%) !important;
     top:  calc(100% - 50%)!important;
   color: #787B7B;
   margin: 0px;
